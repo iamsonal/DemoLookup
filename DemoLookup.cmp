@@ -1,7 +1,7 @@
 <!--
  - Created by Sonal_Chaudhary on 9/5/2017.
  -->
-<aura:component description="DemoLookup" controller="PCMySymcLocatorController">
+<aura:component description="DemoLookup" controller="AccountsController">
     <aura:attribute name="selectedOption" type="String"/>
     <aura:attribute name="listOfOptions" type="String[]"/>
     <aura:attribute name="filteredOptions" type="String[]"/>
